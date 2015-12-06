@@ -11,6 +11,6 @@ LBYCP29 EQ1 - Zarzoso, Tan, Eco, Antonio
 
 {Is +/- P 5 difference insignificant?} - mkc
 
-**_update_*mkc
+**_update_**
 
 Yes Php5 as it is less than Patel's minimum requirement stated in the book "Stock Futures: Strategies for Profiting from Stock Futures".
