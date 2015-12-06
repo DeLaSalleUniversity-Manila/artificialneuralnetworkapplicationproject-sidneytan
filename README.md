@@ -13,4 +13,4 @@ LBYCP29 EQ1 - Zarzoso, Tan, Eco, Antonio
 
 **_update_**
 
-Yes Php5 as it is less than Patel's minimum requirement stated in the book "Stock Futures: Strategies for Profiting from Stock Futures".
+Yes, 5 Php is insignificant as it is less than Patel's minimum requirement stated in the book "Stock Futures: Strategies for Profiting from Stock Futures".
