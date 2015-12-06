@@ -9,6 +9,8 @@ LBYCP29 EQ1 - Zarzoso, Tan, Eco, Antonio
 2. Test Code: Contains Train data and code for testing the Neural Network right away (also contains data for plots, will be imported automatically upon calling test function).
 3. Paper on ANN project.
 
-
-
 {Is +/- P 5 difference insignificant?} - mkc
+
+**_update_*mkc
+
+Yes Php5 as it is less than Patel's minimum requirement stated in the book "Stock Futures: Strategies for Profiting from Stock Futures".
